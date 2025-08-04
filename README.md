@@ -18,7 +18,7 @@ That curiosity turned into obsession. Hacking wasn't just about breaking into th
 ### 🔭 What I'm Up To
 
 - 🎯 Sharpening my skills in **Web Application Security**, **CTFs**, and **Bug Bounties**
-- ✍️ Writing beginner-friendly documentation (like my [SQLi guide](#))
+- ✍️ Writing beginner-friendly documentation (like my [SQLi guide](https://github.com/Kugelbyte/Hack-Log/blob/main/writeups/web/Understanding%20SQL%20Injection%20Payloads.pdf))
 - 🧠 Always learning — by doing, failing, trying again
 
 ---
