@@ -65,7 +65,7 @@ That curiosity turned into obsession. Hacking wasn't just about breaking into th
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niteesh-deshmukh-b2b5091b3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-darkred?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/brokenArrow)
 
 
