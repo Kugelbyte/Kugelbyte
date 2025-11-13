@@ -50,9 +50,9 @@ That curiosity turned into obsession. Hacking wasn't just about breaking into th
 ## 🧠 Currently Learning
 
 - 🧪 Web Application Pentesting & Recon  
-- ☁️ AWS Cloud Security & IAM  
-- 📜 CVE Analysis & Exploit Writing  
-- ⚙️ Building automation tools for CTFs
+- ☁️ Bug Bounties and Vulnerability Disclosure Programs
+- 📜 Preparing for eJPT certification 
+
 
 ---
 
