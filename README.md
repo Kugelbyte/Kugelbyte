@@ -11,7 +11,7 @@
 
   <br/><br/>
 
-  <a href="https://github.com/Kugelbyte/My-Daily-Journal">
+  <a href="https://github.com/Kugelbyte/My-Learning-Journal">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=20C20E&center=true&vCenter=true&width=500&height=60&lines=READ_MY_JOURNAL" alt="Access Button" />
   </a>
   <br/>
