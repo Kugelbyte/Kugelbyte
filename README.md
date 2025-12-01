@@ -4,7 +4,30 @@
     <em>"From game cheats to breaking real-world systems — chasing curiosity, one exploit at a time."</em>
 </p>
 
----
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&weight=400&size=45&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=PATIENCE;PERSISTENCE;PERSEVERANCE" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/Kugelbyte/My-Daily-Journal">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=20C20E&center=true&vCenter=true&width=500&height=60&lines=READ_MY_JOURNAL" alt="Access Button" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/ACCESS_PERMISSION-GRANTED-20C20E?style=plastic" />
+
+  <br/><br/>
+
+  <samp>
+    > <b>SYSTEM_CHECK:</b> .................... <b>[ ONLINE ]</b> 🟢<br/>
+    > <b>EXPLOITATION:</b> [██████▒▒▒▒] <i>LOADING...</i><br/>
+    > <b>PERSISTENCE:</b>&nbsp; [██████████] <b>100%</b><br/>
+    > <b>OBJECTIVE:</b>&nbsp; `Red_Team_Operator` 🎯
+  </samp>
+
+</div>
+
 
 ### 👾 My Journey into Cybersecurity
 
