@@ -29,6 +29,10 @@
 </div>
 
 
+
+*Waiting for the first log entry...*
+
+
 ### 👾 My Journey into Cybersecurity
 
 It all began with childhood curiosity. I used to wonder — _how do people get 9999 coins in Temple Run?_ or _infinite health in games?_  
