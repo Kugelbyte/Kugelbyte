@@ -42,7 +42,7 @@ That curiosity turned into obsession. Hacking wasn't just about breaking into th
 
 ---
 ### 🏆 Certifications
-- eJPT 
+- 🥇[**eJPT-Junior Penetration Tester**](https://certs.ine.com/730e2d08-43af-489d-8e84-f834e4146982#acc.htFZDHm5)
 ---
 
 
