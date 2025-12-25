@@ -30,7 +30,7 @@
 
 
 
-*Waiting for the first log entry...*
+
 
 
 ### 👾 My Journey into Cybersecurity
