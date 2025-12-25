@@ -41,6 +41,10 @@ Back then, it felt like magic. Today, I know it's code — logic, flaws, and the
 That curiosity turned into obsession. Hacking wasn't just about breaking into things, it became about understanding systems inside out. Now, I'm channeling that energy into **ethical hacking**, **CTFs**, and **security research** — to learn, break, build, and secure.
 
 ---
+### 🏆 Certifications
+- eJPT 
+---
+
 
 ### 🔭 What I'm Up To
 
@@ -93,7 +97,7 @@ That curiosity turned into obsession. Hacking wasn't just about breaking into th
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niteesh-deshmukh-b2b5091b3/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-darkred?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/brokenArrow)
 
 
