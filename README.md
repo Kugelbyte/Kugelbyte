@@ -78,15 +78,16 @@ That curiosity turned into obsession. Hacking wasn't just about breaking into th
 
 - 🧪 Web Application Pentesting & Recon  
 - ☁️ Bug Bounties and Vulnerability Disclosure Programs
-- 📜 Preparing for eJPT certification 
+- 💻 Advanced Penetration Testing.
 
 
 ---
 
 ### 🏴‍☠️ CTFs, Writeups & Research
 
-- 🔐 [CTF writeups and payload breakdowns](https://github.com/Kugelbyte/Hack-Log/tree/main/journal)
-- 📚 [Security notes & beginner-friendly writeups](https://medium.com/@niteeshdeshmukh23) 
+- 🔐 [CTF writeups](https://github.com/Kugelbyte/Hack-Log/tree/main/journal)
+- 📚 [Security notes & beginner-friendly writeups](https://medium.com/@niteeshdeshmukh23)
+- ⚛️[CVE-2025-55182 (React2Shell)-Analysis](https://github.com/Kugelbyte/React2Shell-Analysis)
 
 ---
 
