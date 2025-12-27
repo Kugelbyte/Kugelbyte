@@ -22,7 +22,7 @@
 
 | Resource | Description |
 | :--- | :--- |
-| **[Learning Journal](https://github.com/My-Learning-Journal)** | Daily Documentation of learnings and activities. | 
+| **[Learning Journal](https://github.com/Kugelbyte/My-Learning-Journal)** | Daily Documentation of learnings and activities. | 
 | **[CVE-2025-55182 Analysis](https://github.com/Kugelbyte/React2Shell-Analysis)** | Technical analysis of React2Shell vulnerability. |
 | **[Hack Log (Journal)](https://github.com/Kugelbyte/My-Learning-Journal)** | Documentation of CTFs, labs , sample penetration reports and learnings. |
 | **[SQL Injection Guide](https://github.com/Kugelbyte/Hack-Log/blob/main/writeups/web/Understanding%20SQL%20Injection%20Payloads.pdf)** | Deep dive into SQLi payloads and methodology. |
