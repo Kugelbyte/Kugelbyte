@@ -1,6 +1,6 @@
 <h1 align="center">Niteesh Deshmukh</h1>
 <p align="center">
-  <b>Offensive Security | Red Teaming | VAPT</b>
+  <b>Offensive Security | Red Teaming | Vulnerability Analysis and Penetration Testing</b>
 </p>
 
 <p align="center">
