@@ -24,7 +24,7 @@
 | :--- | :--- |
 | **[Learning Journal](https://github.com/Kugelbyte/My-Learning-Journal)** | Daily Documentation of learnings and activities. | 
 | **[CVE-2025-55182 Analysis](https://github.com/Kugelbyte/React2Shell-Analysis)** | Technical analysis of React2Shell vulnerability. |
-| **[Hack Log (Journal)](https://github.com/Kugelbyte/My-Learning-Journal)** | Documentation of CTFs, labs , sample penetration reports and learnings. |
+| **[Hack Log (Journal)](https://github.com/Kugelbyte/Hack-Log)** | Documentation of CTFs, labs , sample penetration reports and learnings. |
 | **[SQL Injection Guide](https://github.com/Kugelbyte/Hack-Log/blob/main/writeups/web/Understanding%20SQL%20Injection%20Payloads.pdf)** | Deep dive into SQLi payloads and methodology. |
 | **[Azure Cloud Detection](https://github.com/Kugelbyte/Azure-Cloud-Detection/tree/main)** | A cloud based detection lab |
 | **[Medium Articles](https://medium.com/@niteeshdeshmukh23)** | Security blogs and beginner-friendly guides. |
